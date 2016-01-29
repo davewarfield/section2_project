@@ -1,0 +1,5 @@
+{"email":"dave@example.com","name":"Dave Warfield","permissions":{"accounts":"read","policies":"write","users":"write"}}
+{"email":"bob@example.com","name":"Bob Smith","permissions":{"accounts":"read","policies":"write","users":"write"}}
+{"email":"bob@example.com","name":"Bob Smith","permissions":{"accounts":"read","policies":"write","users":"write"}}
+{"email":"bob@example.com","name":"Bob Smith","permissions":{"accounts":"read","policies":"write","users":"write"}}
+{"email":"bob@example.com","name":"Bob Smith","permissions":{"accounts":"read","policies":"write","users":"write"}}
